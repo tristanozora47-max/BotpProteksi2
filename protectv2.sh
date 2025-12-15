@@ -45,7 +45,7 @@ class NodeViewController extends Controller
         }
 
         // Jika bukan admin ID 1, tolak akses dengan efek blur dan error
-        abort(403, '🔒 Akses Ditolak ✆ Istance Protect. - t.me/Zennsyx"');
+        abort(403, '🔒 Akses Ditolak ✆ Bot Protect. - t.me/tristanalways"');
     }
 
     /**
